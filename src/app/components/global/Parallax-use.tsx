@@ -1,6 +1,6 @@
 "use client"
 
-import { HeroParallax } from "./HeroParallax"
+import { HeroParallax } from "./connect-parallax"
 
 export const products = [
     {
